@@ -1,0 +1,58 @@
+HELP.md
+target/
+.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+
+# Compiled class files
+target/
+bin/
+
+# Package files
+*.jar
+*.war
+
+# Log files
+*.log
+
+# Eclipse/STS metadata
+.classpath
+.project
+.settings/
+
+# Maven/Gradle cache
+.m2/
+.gradle/
+
+# OS generated files
+.DS_Store
+Thumbs.db
